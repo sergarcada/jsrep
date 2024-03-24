@@ -1,2 +1,2 @@
 # jsrep
-JavaScript learning repo
+JavaScript learning repository
